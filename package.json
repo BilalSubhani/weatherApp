@@ -1,0 +1,21 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app using nodejs and basic frontend languages. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BilalSubhani/weatherApp.git"
+  },
+  "author": "Bilal Subhani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "requests": "^0.3.0"
+  }
+}

@@ -1,2 +1,2 @@
 # weatherApp
-Created using NodeJs and basic html css.
+Created using NodeJs and basic html css js.
